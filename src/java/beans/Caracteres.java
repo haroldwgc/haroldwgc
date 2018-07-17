@@ -10,7 +10,7 @@ package beans;
  * @author harold
  */
 public class Caracteres {
-
+//
     private static final String ORIGINAL
             = "ÁáÉéÍíÓóÚúÑñÜü";
     private static final String REPLACEMENT
